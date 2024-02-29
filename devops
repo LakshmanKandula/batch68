@@ -8,4 +8,9 @@ kubernetes
 terraform
 nagios
 aws
+iam
+ec2
+s3
+vpc
+
 projects
